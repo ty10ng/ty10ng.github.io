@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# About Me
-
 Welcome to "Tyler's Tech Trek". I'm Tyler, a Site Reliability Engineer (SRE) with a broad range of technical interests and skills, extending from current advancements like cloud computing and automation to vintage systems like the Commodore 64.
 
 In my line of work, cybersecurity plays a crucial role. As such, I make an ongoing effort to explore and implement new strategies to enhance system security and protect sensitive data, making a priority of anticipating potential threats.

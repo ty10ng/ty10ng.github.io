@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello, friend.
+title: Hello, world!
 date: 2023-07-30 13:27 -0400
 ---
 
