@@ -10,7 +10,9 @@ I have a broad range of interests that span across modern and vintage technologi
 
 A few key areas that captivate me include **cybersecurity**, where I constantly explore strategies to protect sensitive data and stay one step ahead of threats. I also find **automation** fascinating - the pursuit of optimized workflows and increased efficiency is a cornerstone of my work. Lastly, I am a strong advocate for **open source software**, and actively support and contribute to this community-driven world of software development.
 
-Over time, I'll be using this blog to share some of the projects I'm working on. Until then, you're welcome to delve into my repositories on GitHub to understand my work better. My work involves a variety of tools and technologies, including Python, C/C++, AWS, Azure, DigitalOcean, Linode, Grafana, Prometheus, Thanos, Zabbix, Puppet, Ansible, Artifactory, Raspberry Pis, Docker, VMWare ESXI, OLVM, oVirt, KVM/QEMU, Libvirt, and several Linux distributions like RHEL, Oracle, CentOS, AlmaLinux, Rocky Linux, and Ubuntu. 
+Over time, I'll be using this blog to share some of the projects I'm working on. Until then, you're welcome to delve into my repositories on GitHub to understand my work better. Please note at the time of writing this, that my profile may be still under construction as I publish resources from my self-hosted Git environment. 
+
+My work involves a variety of tools and technologies, including Python, C/C++, Ansible, Virtualization, various cloud platforms (such as AWS, Azure, Linode, DigitalOcean), and several Linux distributions (RHEL, Oracle, CentOS, AlmaLinux, Rocky Linux, and Ubuntu). I also experiment with retro computer equipment, and like to push the limit of what was thought possible with the technology of the past. 
 
 I'd love to connect with other professionals and enthusiasts who share similar interests. If you'd like to discuss anything from SRE, cybersecurity, automation, virtualization, open source advocacy, Linux, or even vintage systems like the Commodore 64, do reach out. 
 
