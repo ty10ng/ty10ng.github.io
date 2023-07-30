@@ -18,15 +18,15 @@ timezone: America/Detroit
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: ty10ng # the main title
+title: Tyler's Tech Trek # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: From Retro Systems to Modern Marvels # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Tyler's Tech Trek' is a unique tech blog that traverses the paths of vintage and modern technology. Join Tyler, a dedicated SRE, as he dives into topics ranging from the classic Commodore 64 to the latest in automation, cybersecurity, and open source software.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://tylong.me"
 
 github:
   username: ty10ng # change to your github username
