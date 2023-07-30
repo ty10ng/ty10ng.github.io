@@ -2,6 +2,7 @@
 layout: post
 title: Hello, world!
 date: 2023-07-30 13:27 -0400
+tags: [introduction]
 ---
 
 Hello and welcome to my blog! I'm Tyler, a Site Reliability Engineer with a passion for all things tech. You might know me from my [GitHub profile](https://github.com/ty10ng), but if not, allow me to introduce myself.
