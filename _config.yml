@@ -92,7 +92,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: tw10ng/tw10ng.github.io # <gh-username>/<repo>
+    repo: ty10ng/ty10ng.github.io # <gh-username>/<repo>
     repo_id: R_kgDOKBc4jQ
     category: General
     category_id: DIC_kwDOKBc4jc4CYPOG
